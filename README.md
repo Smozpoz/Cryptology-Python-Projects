@@ -1,7 +1,11 @@
 # Cryptology-Python-Projects
 A compilation of python projects made for my cryptology class at DePaul.
 
-shift.py - Implementation of a shift cipher:
+## Table of Contents
+1. [Shift Cipher](#shift-cipher)
+
+## Shift Cipher
+	shift.py - Implementation of a shift cipher:
 	
 	Description:
 	
