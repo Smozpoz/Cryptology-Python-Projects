@@ -49,6 +49,7 @@ def mod_inv(a, n):
 
 
 if __name__ == "__main__":
+    # demo of tools
     a, m, n = 7, 560, 561
     print(f"{a}^{m} mod {n} = {mod_exp(a, m, n)}")
 
